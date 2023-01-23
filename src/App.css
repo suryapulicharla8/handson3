@@ -1,0 +1,16 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+}
+body {
+  background:linear-gradient(to left,blue,green,yellow,pink);
+}
+.head {
+  background-color: black;
+  color:gold;
+  text-align: center;
+  
+}
+

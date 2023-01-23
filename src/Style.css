@@ -1,0 +1,44 @@
+.head {
+    background-color: black;
+    color:gold;
+    text-align: center;
+    
+  }
+  input {
+    /* margin-top: 10%; */
+    width: 40%;
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid green;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    background-color: brown;
+    color: aqua;
+  }
+  lable {
+    /* margin-top: 10%; */
+    font-size: 26px;
+    color: red;
+    margin-left: 30%;
+  }
+  .name {
+    font-size: 26px;
+    color: red;
+    margin-left: 30%;
+  }
+.btn {
+    margin-left: 40%;
+    height: 50px;
+    width: 20%;
+    border-radius: 30px;
+    background-color: red;
+    color: blue;
+    text-align: center;
+    font-size: 22px;
+}
+.btn:hover {
+    background:linear-gradient(to right,pink,blue,green,navy,gray);
+    color: brown;
+    font-weight: bolder;
+    
+}   
